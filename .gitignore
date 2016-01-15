@@ -1,0 +1,4 @@
+/node_modules/*
+/journey-condition-parser.js
+/journey-condition-parser.min.js
+/journey-condition-parser.min.js.gz
